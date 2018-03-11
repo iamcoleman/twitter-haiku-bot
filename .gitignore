@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# hide folder
+hide/*
+twitter_keys.py
